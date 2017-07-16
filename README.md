@@ -1,4 +1,4 @@
-# hello-world
+# Hello, World!
 Getting to say hello to GitHub!
 
 # This is some new changes
